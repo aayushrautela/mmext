@@ -1,7 +1,6 @@
-id=MMT-Ex
-name=Magisk Module Template Extended
+id=pixel6p_props
+name=Pixel 6 pro props
 version=v2.0
 versionCode=10
-author=Zackptg5
-description=Magisk Module Template Extended
-updateJson=https://raw.githubusercontent.com/Zackptg5/MMT-Extended/master/update.json
+author=rautela4488
+description=Spoofs device fingerprint as pixel 6 pro.
